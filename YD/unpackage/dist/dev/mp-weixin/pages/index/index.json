@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "云端精酿餐吧",
+  "usingComponents": {
+    "uni-swiper-dot": "../../uni_modules/uni-swiper-dot/components/uni-swiper-dot/uni-swiper-dot",
+    "shop-card": "./modules/shopCard"
+  }
+}

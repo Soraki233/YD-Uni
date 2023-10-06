@@ -1,0 +1,23 @@
+.step-control .step-control-container.data-v-280cd8ed {
+  display: flex;
+  height: 40rpx;
+  justify-content: space-between;
+}
+.step-control .step-control-container .step-btn.data-v-280cd8ed {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40rpx;
+  height: 40rpx;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #1D6D41;
+}
+.step-control .step-control-container .step-btn image.data-v-280cd8ed {
+  width: 30rpx;
+  height: 30rpx;
+}
+.step-control .step-control-container .number.data-v-280cd8ed {
+  width: 60rpx;
+  text-align: center;
+}

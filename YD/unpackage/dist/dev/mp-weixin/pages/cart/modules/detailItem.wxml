@@ -1,0 +1,1 @@
+<view class="detail-item"><view class="detail-image-container"><image src="{{a}}"></image></view><view class="detail-info-container"><view class="title">{{b}}</view><view class="price"><view class="price-text">￥{{c}}</view><step-control style="margin-top:45rpx" u-i="7ce09710-0" bind:__l="__l"></step-control></view></view></view>

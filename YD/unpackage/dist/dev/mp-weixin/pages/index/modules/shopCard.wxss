@@ -1,0 +1,58 @@
+.shop-card {
+  border-radius: 20rpx;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 25rpx;
+  width: 335rpx;
+  height: 450rpx;
+}
+.shop-card .shop-card-container {
+  width: 300rpx;
+  height: 416rpx;
+}
+.shop-card .shop-card-container .card-image {
+  overflow: hidden;
+  border-radius: 10rpx;
+  width: 100%;
+  height: 300rpx;
+}
+.shop-card .shop-card-container .card-image image {
+  width: 100%;
+  height: 300rpx;
+}
+.shop-card .shop-card-container .card-title {
+  margin-top: 12rpx;
+  margin-left: 8rpx;
+  font-size: 28rpx;
+}
+.shop-card .shop-card-container .price {
+  margin-top: 20rpx;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.shop-card .shop-card-container .price .price-online {
+  color: orange;
+}
+.shop-card .shop-card-container .price .price-del {
+  text-decoration: line-through;
+  color: #CBCBCB;
+  font-size: 24rpx;
+}
+.shop-card .shop-card-container .price .add-btn {
+  background-color: #1D6D41;
+  width: 45rpx;
+  height: 45rpx;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.shop-card .shop-card-container .price .add-btn image {
+  width: 30rpx;
+  height: 30rpx;
+  margin: 0 auto;
+}
